@@ -1,0 +1,18 @@
+{
+  "diagnostic.messageTarget": "float",
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+  "diagnostic.virtualTextPrefix": "*",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "html",
+    "javascript",
+    "js",
+    "json",
+    "xml"
+  ],
+  "java.home": "C:/Program Files/Java/jdk-17.0.3.1",
+  "tailwindCSS.trace.server": "verbose"
+}
